@@ -1,0 +1,5 @@
+C# Project that is an unwinable Tic-Tac-Toe game.
+
+Right now only does Human vs AI
+
+Can be ran using the exe in the bin/debug folder
