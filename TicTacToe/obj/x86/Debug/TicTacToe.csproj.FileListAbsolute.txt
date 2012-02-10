@@ -1,0 +1,5 @@
+C:\Users\Garrett\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Garrett\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Garrett\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Garrett\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\Garrett\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
